@@ -1,6 +1,6 @@
 # XYLEM CHALLNGE
 
-Recordings from November 20, 2026.
+November 20, 2026 recordings.
 
-- [Screen recording](<11_20_2026, 11_31_53 AM - Screen - Video Project 5.webm>)
-- [Webcam recording](<11_20_2026, 11_31_53 AM - Webcam - Video Project 5.webm>)
+- [SLIDES CLIPS 1](<SLIDES CLIPS 1>): first screen and webcam recordings.
+- [CLIP 2 APP VOICEOVER](<CLIP 2 APP VOICEOVER>): application voiceover.
